@@ -4,4 +4,4 @@ sudo mkdir -p /home/ubuntu/my-app
 sudo chown -R ubuntu:ubuntu /home/ubuntu/my-app
 
 # Clear previous deployment
-sudo rm -rf /home/ubuntu/react-app/*
+sudo rm -rf /home/ubuntu/my-app/*

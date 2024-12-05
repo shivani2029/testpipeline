@@ -5,4 +5,4 @@ cd /home/ubuntu/my-app
 pm2 delete react-app || true
 
 # Start application using PM2
-pm2 start npm --name react-app -- start
+pm2 start npm --name my-app -- start

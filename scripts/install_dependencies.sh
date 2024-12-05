@@ -3,4 +3,4 @@ sudo apt update
 mkdir /home/ubuntu/my-app
 cd /home/ubuntu/my-app || exit 1
 sudo npm install
-sudo npm run build
+npm run build

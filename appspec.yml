@@ -3,7 +3,6 @@ os: linux
 files:
   - source: /
     destination: /home/ubuntu/my-app
-    overwrite: yes
 hooks:
   AfterInstall:
     - location: scripts/install_dependencies.sh

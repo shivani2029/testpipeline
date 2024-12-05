@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-mkdir /var/www/react-app
-cd /var/www/react-app
+mkdir /home/ubuntu/react-app
+cd /home/ubuntu/react-app
 npm install
 
